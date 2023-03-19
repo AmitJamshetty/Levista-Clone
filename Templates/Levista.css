@@ -58,7 +58,7 @@
     color: white;
 }
 #sct>#banner{
-    background-image: url("banner.webp");
+    background-image: url("../Assests/banner.webp");
     height: 600px;
     background-position: center;
     background-repeat: no-repeat;
